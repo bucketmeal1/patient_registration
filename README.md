@@ -1,5 +1,4 @@
 Readme
-
 1.install composer v2.7.7
 2.install node.js v12.22.9 
 3. composer update
@@ -10,3 +9,6 @@ Readme
 7. run php artisan optimize:clear
 8. run php artisan config:clear
 9.run php artisan serve.
+
+Username: user@example.com
+Password: password
